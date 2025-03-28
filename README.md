@@ -10,7 +10,7 @@ I specialize in **AI-driven development, automation, and scalable full-stack sol
 ## 🚀 **What I Do**  
 💡 **AI-Driven Full-Stack Development** – AI-assisted coding for rapid & efficient development  
 🤖 **AI & Automation Expert** – Automating workflows, data pipelines, and AI-powered solutions  
-⚡ **End-to-End Product Building** – From frontend (Angular) to backend (Node.js, FastAPI) with AI integration  
+⚡ **End-to-End Product Building** – From frontend to backend with AI integration  
 
 ## 🔥 **Projects & Expertise**  
 ✔️ **AI-Based Web Apps** (Deepfake Detection, AI Automation, Smart AI Dashboards)  
